@@ -21,8 +21,3 @@ A simple PHP and MySQL based login and registration system with session authenti
 - CSS
 - Bootstrap
 - XAMPP
-
-
-├── navbar.php
-├── style.css
-└── database.sql
